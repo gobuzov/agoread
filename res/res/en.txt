@@ -1,0 +1,117 @@
+65=Easy and simple full screen book reader for reading files from phone's memory. It's supports txt, html, fb2 file formats. Landscape and portrait auto orientation detects.
+66=Please, enter registration code.
+67=Thank you for registration!
+68=Default encoding:
+69=iso8859-1, iso8859-2, koi8-R, windows-1250, windows-1251, windows-1257, utf-8
+70=change
+71=0: Setting panel
+72=2,8: Fast paging
+73=4: Previous page
+74=5: See pictures
+75=6: Next page
+76=*: See notes
+77=#: Turn screen
+78=of
+79=Notes
+80=Cover
+81=SMS
+82=DELETE
+83=DELETE WITH FILE
+84=READ
+85=Readed:
+86=Size:
+87=Total memory:
+88=1: Bookmarks
+89=Search
+90=New books
+91=Enter author:
+92=Please, enter name of author.
+93=Pack
+94=Share
+95=Packing
+0=AgoReader
+1=History
+2=Choose book
+3=Online library
+4=History is empty
+5=Do you really want to delete from history?
+6=Error
+7=Connection error. Please check your network settings or try again later.
+8=exit
+9=Please, wait.
+10=Do you really want to quit?
+11=About
+12=ok
+14=cancel
+15=back
+16=Information
+17=next
+18=Nothing was found
+19=Help
+20=Version:
+21=Arcadiy Gobuzov, Russia
+agoreader@gmail.com
+www.gobuzov.ru/agoreader
+22=feedback
+23=AgoReaderLite
+24=Available:
+25=Local:
+26=Do you really want to delete from history and delete file?
+27=Download
+28=Platform:
+29=Optional
+30=Register
+31=Register code:
+32=Please visit www.gobuzov.ru/buyreader for getting register code.
+33=Fast Prev
+34=Registration
+35=Name
+36=Loading
+37=rupay
+38=rupay
+39=TELL TO FRIEND
+40=clear
+41=Do you really want to clear history?
+42=File not exist
+43=Access to the file:
+44=Next Page
+45=Previous Page
+46=Please enter the message
+47=E-mail
+48=Send
+49=Message:
+50=Thank you for feedback!
+51=News
+52=Encoding
+53=Optimizing
+54=Fast Next
+55=Please,select 
+#txt, html, fb2, gz 
+files for reading.
+If you don't have files on card, you need to find and save them first.
+56=For next page, please press the right half of the screen,
+for previous - left half. 
+For fast paging press top of screen
+57=For next page, please press the right key,
+for previous page - left key. 
+For fast paging, please press up and down keys,
+# - Landscape Portrait modes
+58=For reading you must allow access to the file system.
+Restart program and try again.
+59=SUPPORTED FILES:
+#txt, html, fb2
+
+SUPPORTED ENCODINGS:
+#utf-8, windows-1250, windows-1251, windows-1257, iso8859-1/2, koi8-R
+
+SUPPORTED ARCHIVES:
+#gzip
+
+CONTROL:
+60=#UID
+61=full version
+62=Note! Lite version shows only some first pages of file.
+
+Please buy full version. It have low price. Conditions of purchase see on gobuzov.ru/agoreader
+63=more apps
+64=#LOC

@@ -1,0 +1,114 @@
+65=Lector de libros en pantalla completa Fácil y sencillo para la lectura de archivos de la memoria del teléfono. 
+66=Please, enter registration code.
+67=Thank you for registration!
+68=DEFAULT ENCODING:
+69=iso8859-1, iso8859-2, koi8-R, windows-1250, windows-1251, windows-1257, utf-8
+70=CORRECTA
+71=0: Configuración panel
+72=2,8: Paginación rápida
+73=4: Página anterior
+74=5: Para ver imágenes
+75=6: Página siguiente
+76=*: a Véanse las notas
+77=#: Gire a la pantalla
+78=de
+79=Notas:
+80=Cubierta
+81=SMS
+82=BORRAR
+83=BORRAR ARCHIVO
+84=READ
+85=leido:
+86=Tamaño:
+87=Memoria total: 
+88=1: Bookmarks
+89=Search
+90=New books
+91=Enter author:
+92=Please, enter name of author.
+0=AgoReader
+1=Historia
+2=Elija libro
+3=Online library
+4=La historia está vacía
+5=¿Realmente desea borrar de la historia?
+6=Error
+7=Error de conexión. 
+8=salida
+9=Por favor, espere.
+10=¿De verdad quieres salir?
+11=Acerca del programa
+12=bueno
+14=cancelar
+15=espalda
+16=Información
+17=próximo
+18=No se encontró nada
+19=Ayudar
+20=Versión:
+21=Arcadiy Gobuzov, Rusia
+agoreader@gmail.com
+www.gobuzov.ru/agoreader
+22=feedback
+23=AgoReaderLite
+24=Disponible:
+25=Local:
+26=¿Realmente desea borrar de la historia y borrar el archivo?
+27=Descargar
+28=Plataforma:
+29=Opcional
+30=Register
+31=Su usuario (e-mail):
+32=Tu contraseña:
+33=Rápido Anterior
+34=bordo
+35=Nombre
+36=Loading
+37=rupay
+38=rupay
+39=DECIR A UN AMIGO
+40=claro
+41=¿Realmente desea borrar el historial?
+42=Archivo no existe
+43=El acceso al archivo:
+44=Página siguiente
+45=Página Anterior
+46=Ingrese el mensaje
+47=E-mail
+48=Enviar
+49=Mensaje:
+50=Gracias por regeneración!
+51=Noticias
+52=Codificación
+53=Optimización
+54=Fast Siguiente
+55=Por favor, seleccione
+#txt, html, fb2, gz 
+Archivos para la lectura.
+Si usted no tiene los archivos en la tarjeta, es necesario encontrar y salvar a ellos primero.
+56=Para la siguiente página, por favor, pulse la mitad derecha de la pantalla,
+para la anterior - la mitad izquierda.
+Para paginación rápido pulsar la parte superior de la pantalla
+57=Para la siguiente página, por favor, pulse la tecla de la derecha,
+para la anterior - la tecla izquierda.
+Para paginación rápido, por favor presione hacia arriba y abajo,
+# - Landscape Portrait modes
+58=Para la lectura se debe permitir el acceso al sistema de archivos.
+Reinicie el programa y vuelva a intentarlo.
+59=ARCHIVOS COMPATIBLES:
+#txt, html, fb2
+
+Codificaciones soportadas:
+#utf-8, windows-1250, windows-1251, windows-1257, iso8859-1/2, koi8-R
+
+ARCHIVOS COMPATIBLES:
+#gzip
+
+DE CONTROL:
+60=#UID
+61=versión completa
+62=Nota! 
+
+Por favor, comprar la versión completa. 
+63=más aplicaciones
+64=#LOC

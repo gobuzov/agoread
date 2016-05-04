@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="J2ME_MODULE" version="4">
+  <component name="J2ME Module Properties">
+    <resourceRoot path="D:\WORK\agoreader\res" />
+    <mobileApplicationType name="MIDP" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_3" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/res" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="nokiaapi" level="project" />
+  </component>
+  <component name="com.intellij.j2meplugin.module.settings.midp.MIDPSettings">
+    <setting name="MIDlet-1" module.settings.user.defined.value="AgoReader,/res/i.png,App" />
+    <setting name="MIDlet-Jar-Size" module.settings.user.defined.value="242979" />
+    <setting name="MIDlet-Jar-URL" module.settings.user.defined.value="agoreader.jar" />
+    <setting name="MIDlet-Name" module.settings.user.defined.value="AgoReader" />
+    <setting name="MIDlet-Vendor" module.settings.user.defined.value="Arcadiy Gobuzov" />
+    <setting name="MIDlet-Version" module.settings.user.defined.value="1.5" />
+    <setting name="MicroEdition-Configuration" module.settings.user.defined.value="CLDC-1.0" />
+    <setting name="MicroEdition-Profile" module.settings.user.defined.value="MIDP-2.0" />
+    <jarUrl jarUrlName="$MODULE_DIR$/agoreader.jar" />
+    <descriptionPath path="$MODULE_DIR$/agoreader.jad" useUserDescriptor="false" />
+    <manifest useUserManifest="false" />
+    <userDefinedOptions>
+      <option module.settings.user.defined.key="Nokia-MIDlet-App-Orientation" module.settings.user.defined.value="manual" />
+      <option module.settings.user.defined.key="Nokia-MIDlet-On-Screen-Keypad" module.settings.user.defined.value="no" />
+      <option module.settings.user.defined.key="MIDlet-Permissions" module.settings.user.defined.value="javax.microedition.io.Connector.http, javax.microedition.io.Connector.https, javax.microedition.io.Connector.file.read" />
+    </userDefinedOptions>
+  </component>
+</module>
+
